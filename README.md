@@ -28,8 +28,8 @@ For development:
 - Run `npm install` and `npm start` (standard setup).
 - Deploy with a static hosting service.
 
-## Similar Projects
-Other hosted notepads include rich text editors with autosave and export options.
+## Live Projects
+[Other hosted notepads include rich text editors with autosave and export options.](https://notepad-stack.netlify.app/)
 
 ## License
 MIT License (assumed for open web apps; check source for specifics). Free to use and fork.
